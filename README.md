@@ -7,7 +7,7 @@ The goal of this project is to implement an audio classification system, which:
 2. Recognizes the class(label) of this audio.
 
 #Librerias
-```
+```python
 import torch
 import torch.nn as nn
 import pandas as pd
@@ -20,7 +20,7 @@ from torch.utils.data import DataLoader, Dataset
 
 #Paso 2 Creacion de algunos programas utiles
 
-```
+```python
 #vamos a tener 2 listas con identificaciones, una para validacion y otra para 
 carpeta_principal = 'archive-2'
 # Obtener nombres de todas las carpetas dentro de la carpeta principal
