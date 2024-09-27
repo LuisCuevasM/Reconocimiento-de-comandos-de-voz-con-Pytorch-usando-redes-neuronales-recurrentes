@@ -1,1 +1,1 @@
-# Reconocimiento-de-comandos-de-voz-con-Pytorch-usando-redes-neuronales-recurrentes
+# Reconocimiento de comandos de voz con Pytorch usando Redes Neuronales Recurrentes
