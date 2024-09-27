@@ -4,5 +4,5 @@ El uso de redes recurrentes (RNN) para la modelización de secuencias depende fu
 # Redes Neuronales Recurrentes RNN
 The goal of this project is to implement an audio classification system, which:
 
-1.First reads in an audio clip (containing at most one word),
-2.Recognizes the class(label) of this audio.
+  -1. First reads in an audio clip (containing at most one word),
+  -2. Recognizes the class(label) of this audio.
