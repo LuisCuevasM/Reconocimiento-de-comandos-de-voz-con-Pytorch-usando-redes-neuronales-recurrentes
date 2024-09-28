@@ -6,7 +6,7 @@ The goal of this project is to implement an audio classification system, which:
 1. First reads in an audio clip (containing at most one word),
 2. Recognizes the class(label) of this audio.
 
-#Librerias
+# Librerias
 ```python
 import torch
 import torch.nn as nn
@@ -18,7 +18,7 @@ from torch.utils.data import DataLoader, Dataset
 ```
 
 
-#Paso 2 Creacion de algunos programas utiles
+# Paso 2 Creacion de algunos programas utiles
 
 ```python
 #vamos a tener 2 listas con identificaciones, una para validacion y otra para 
